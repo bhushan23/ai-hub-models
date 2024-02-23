@@ -282,7 +282,7 @@ For any issues, please contact us at ai-hub-support@qti.qualcomm.com.
 | [SqueezeNet-1_1Quantized](https://aihub.qualcomm.com/models/squeezenet1_1_quantized) | [qai_hub_models.models.squeezenet1_1_quantized](qai_hub_models/models/squeezenet1_1_quantized/README.md) | ✔️ | ✔️ | ✔️
 | [DenseNet-121](https://aihub.qualcomm.com/models/densenet121) | [qai_hub_models.models.densenet121](qai_hub_models/models/densenet121/README.md) | ✔️ | ✔️ | ✔️
 | [ResNet50](https://aihub.qualcomm.com/models/resnet50) | [qai_hub_models.models.resnet50](qai_hub_models/models/resnet50/README.md) | ✔️ | ✔️ | ✔️
-| [ResNet101Quantized](https://aihub.qualcomm.com/models/resnet101_quantized) | [qai_hub_models.models.resnet101_quantized](qai_hub_models/models/resnet101_quantized/README.md) | ✔️ | ✔️ | ✔️
+| [ResNet101Quantized](https://aihub.qualcomm.com/models/resnet101_quantized) | [qai_hub_models.models.resnet101_quantized](qai_hub_models/models/resnet101_quantized/README.md) | ✔ | ✔️ | ✔️
 | | | | |
 | **Image Editing**
 | [LaMa-Dilated](https://aihub.qualcomm.com/models/lama_dilated) | [qai_hub_models.models.lama_dilated](qai_hub_models/models/lama_dilated/README.md) | ✔️ | ✔️ | ✔️
@@ -366,9 +366,9 @@ For any issues, please contact us at ai-hub-support@qti.qualcomm.com.
 | -- | -- | -- | -- | --
 | | | | |
 | **Image Generation**
-| [Stable-Diffusion](https://aihub.qualcomm.com/models/stable_diffusion_quantized) | [qai_hub_models.models.stable_diffusion_quantized](qai_hub_models/models/stable_diffusion_quantized/README.md) | ✔️ | ✔️ | ✔️
-| [ControlNet](https://aihub.qualcomm.com/models/controlnet_quantized) | [qai_hub_models.models.controlnet_quantized](qai_hub_models/models/controlnet_quantized/README.md) | ✔️ | ✔️ | ✔️
+| [Stable-Diffusion](https://aihub.qualcomm.com/models/stable_diffusion_quantized) | [qai_hub_models.models.stable_diffusion_quantized](qai_hub_models/models/stable_diffusion_quantized/README.md) | ❌ | ✔️ | ✔️
+| [ControlNet](https://aihub.qualcomm.com/models/controlnet_quantized) | [qai_hub_models.models.controlnet_quantized](qai_hub_models/models/controlnet_quantized/README.md) | ❌ | ✔️ | ✔️
 | | | | |
 | **Text Generation**
-| [Llama-v2-7B-Chat](https://aihub.qualcomm.com/models/llama_v2_7b_chat_quantized) | [qai_hub_models.models.llama_v2_7b_chat_quantized](qai_hub_models/models/llama_v2_7b_chat_quantized/README.md) | ✔️ | ✔️ | ✔️
-| [Baichuan-7B](https://aihub.qualcomm.com/models/baichuan_7b_quantized) | [qai_hub_models.models.baichuan_7b_quantized](qai_hub_models/models/baichuan_7b_quantized/README.md) | ✔️ | ✔️ | ✔️
+| [Llama-v2-7B-Chat](https://aihub.qualcomm.com/models/llama_v2_7b_chat_quantized) | [qai_hub_models.models.llama_v2_7b_chat_quantized](qai_hub_models/models/llama_v2_7b_chat_quantized/README.md) | ❌ | ❌ | ❌
+| [Baichuan-7B](https://aihub.qualcomm.com/models/baichuan_7b_quantized) | [qai_hub_models.models.baichuan_7b_quantized](qai_hub_models/models/baichuan_7b_quantized/README.md) | ❌ | ❌ | ❌
